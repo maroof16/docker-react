@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          where r u
+          there is a change
         </p>
         <a
           className="App-link"
